@@ -10,23 +10,23 @@ Does exactly what it says on the tin.
 Follow these steps to set up and run the script:
 
 1. Clone the repository:
-```bash
-git clone https://github.com/DJStompZone/text2video
-```
+    ```bash
+    git clone https://github.com/DJStompZone/text2video
+    ```
 
 2. Navigate to the cloned directory:
-```bash
-cd text2video
-```
+    ```bash
+    cd text2video
+    ```
 
-3. Install the required packages:
-```bash
-pip3 install -r requirements.txt
-```
-or
-```bash
-python3 -m pip install -r requirements.txt
-```
+3. Install the required packages with one of the following commands:
+    ```bash
+    pip3 install -r requirements.txt
+    ```
+    ```bash
+    python3 -m pip install -r requirements.txt
+    ```
+    If neither command works, you will need to ensure you have `pip` installed and added to your PATH
 
 
 ## Usage
